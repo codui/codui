@@ -9,6 +9,8 @@
 2. When ordering a product, the Telegram bot receives the customer's data - name and phone number for communication.
 3. Next, the Telegram bot publishes the customer's data in the Telegram group.
 
+
+
 # Site-landing "Капсули для пральної машини" https://clone-shop.vercel.app/
 ![site-landing.png](images/site-landing.png)
 # Used: Javascript, Node.js, Gulp, SCSS, HTML, vercel serivce for Telegram-bot
