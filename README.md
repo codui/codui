@@ -1,7 +1,5 @@
 ## Hi there 👋
-# Here you can see previews of projects made by me and read information about them:
-
-# Site-landing "Капсули для пральної машини" https://eco-shop-now.vercel.app/
+# Here you can see previews of projects made by me and read information about them: <br>Site-landing "Капсули для пральної машини" https://eco-shop-now.vercel.app/
 ![site-landing.png](images/site-landing.png)
 # Used: Javascript, Node.js, Gulp, SCSS, HTML, vercel serivce for Telegram-bot
 ## How it works:
